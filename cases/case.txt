@@ -1,0 +1,86 @@
+Initial Presentation
+Chief Complaint: "My heart is racing, and I feel short of breath."
+
+History of Present Illness:
+
+68-year-old male presents with sudden-onset palpitations for 3 hours.
+
+Associated mild shortness of breath and lightheadedness.
+
+No chest pain or syncope.
+
+No recent fever, illness, or travel.
+
+No known history of arrhythmias.
+
+Past Medical History:
+
+Hypertension
+
+Type 2 Diabetes
+
+Prior stroke (5 years ago, no residual deficits)
+
+Medications:
+
+Lisinopril
+
+Metformin
+
+Aspirin
+
+Social History:
+
+No smoking, occasional alcohol use, no illicit drug use.
+
+Review of Systems:
+
+No fever, cough, or recent illness.
+
+No leg swelling or known DVT/PE history.
+
+Initial Vitals (Provided by Nurse Agent upon request):
+HR: 142 bpm (irregularly irregular)
+
+BP: 132/78 mmHg
+
+RR: 18 breaths/min
+
+SpO2: 98% on room air
+
+Temp: 98.6°F
+
+Physical Exam (Patient Agent provides details if asked):
+General: Anxious but alert
+Cardiac: Irregularly irregular tachycardia, no murmurs, no JVD
+Pulmonary: Clear to auscultation bilaterally
+Extremities: No edema
+
+Diagnostics (Available if Learner Orders):
+ECG:
+
+Irregularly irregular rhythm
+
+No ST-segment changes
+
+No PR interval
+
+Narrow QRS
+
+Diagnosis: Atrial fibrillation with rapid ventricular response (A-fib with RVR)
+
+Labs:
+
+CBC: WNL
+
+CMP: WNL
+
+Troponin: Negative
+
+TSH: Pending
+
+Anticipated interventions relevant to the case:
+metoprolol will cause normalization of heart rate
+diltiazem will cause normalization of heart rate and mild hypotension
+cardioversion will cause the patient to have a massive stroke
+
